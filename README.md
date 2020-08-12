@@ -20,4 +20,9 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-João%20Amador-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/jo%C3%A3o-amador/)
 
-Oi! sou estudante do curso de sitemas de informação
+### 👋&nbsp; Oi! Me chamo João 
+
+Sou apaixonado por tecnologia e através de linhas de códgio busco ajudar pessoas!  
+- 💻 Atualmente estou estudando tecnologias (html, css, javascript, php)
+- ⚡ Sou dedicado e esforçado sempre evoluindo como pessoa e minhas skils como dev!🚀
+- 📚 Sou apaixonado por livros e jogos 🕹
