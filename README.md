@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="left">
-    <img href="https://ibb.co/64QzzjC"><img src="https://i.ibb.co/64QzzjC/bc466ed9-c0d5-4680-89f9-7e6b23b9cff9.webp" alt="bc466ed9-c0d5-4680-89f9-7e6b23b9cff9" border="0">
+    <img href="https://ibb.co/64QzzjC"><img src="https://i.ibb.co/64QzzjC/bc466ed9-c0d5-4680-89f9-7e6b23b9cff9.webp" alt="bc466ed9-c0d5-4680-89f9-7e6b23b9cff9" border="0" width="100">
 </p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-João%20Amador-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/jo%C3%A3o-amador/)
+
+Oi! sou estudante do curso de sitemas de informação
