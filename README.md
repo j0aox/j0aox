@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 Sou apaixonado por tecnologia e através de linhas de códgio busco ajudar pessoas!  
 - 🔭 Atualmente sou estagiário na secretaria de estado da administração do RN
-- 💻 Atualmente estou estudando tecnologias (html, css, javascript, php)
+- 💻 Atualmente estou estudando tecnologias (html, css, javascript)
 - ⚡ Sou dedicado e esforçado sempre evoluindo como pessoa e minhas skils como dev!🚀
 - 📚 Sou apaixonado por livros e jogos 🕹
