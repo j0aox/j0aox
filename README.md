@@ -6,6 +6,6 @@
 ### Sobre mim
 - 🎓 &nbsp; Formado no curso Sistemas de Informação
 - 🧐 &nbsp; Desenvolvedor de software orientado por resultados
-- 📚 &nbsp; Tecnologias que conheço e já trabalhei: &nbsp;`php`, `NodeJs`, `JavaScript`, `HTML`, `CSS`, `MySql`, `PostgreSQL`, `Git`.
+- 📚 &nbsp; Tecnologias que conheço e já trabalhei: PHP, NodeJs, JavaScript, HTML, CSS, MySql, PostgreSQL, Git.
 - 🎯 &nbsp; Curiosidades: Adoro ler e jogar video game nas horas vagas.
 - 📫 &nbsp; Entre em contato comigo: [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-amador/)
