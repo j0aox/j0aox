@@ -3,7 +3,7 @@ Sou um Desenvolvedor Full-Stack, atualmente moro em Natal, Brasil. Sou apaixonad
 ### Sobre mim
 - 🎓 &nbsp; Formado no curso Sistemas de Informação
 - 🧐 &nbsp; Desenvolvedor de software orientado por resultados
-- 📚 &nbsp; Tecnologias que conheço e já trabalhei: &nbsp;`php`, `NodeJs`, `JavaScript`, `HTML`, `CSS`, `MySql`, `PostgreSQL`, `Git`, `Laravel`, `React`.
+- 📚 &nbsp; Tecnologias que conheço e já trabalhei: php, NodeJs, JavaScript, HTML, CSS, MySql, PostgreSQL, Git, Laravel, React.
 - 🎯 &nbsp; Curiosidades: Adoro ler e jogar video game nas horas vagas.
 - 📫 &nbsp; Entre em contato comigo: [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-amador/)
 
